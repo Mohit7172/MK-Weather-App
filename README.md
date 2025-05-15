@@ -27,8 +27,6 @@ A feature-rich **VB.NET desktop application** that provides real-time weather in
 - `SearchHistory` – Stores each user's search history
 - `FavoriteCities` – Stores user’s favorite cities
 
-## 🖥 Screenshots
-*(Add screenshots of your app UI here if possible)*
 
 ## 📁 Folder Structure
 ```
@@ -104,8 +102,7 @@ Press `F5` or click the **Start** button in Visual Studio to build and run the a
 
 ## 👨‍💻 Developed By
 - **Mohit Kumar**
-- **BCA Final Year - DAV College, Abohar**
-- **University Roll No: 22047482**
+
 
 ## 🔗 Useful Links
 - [OpenWeatherMap](https://openweathermap.org/)
